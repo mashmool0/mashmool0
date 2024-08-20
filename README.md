@@ -1,4 +1,4 @@
-# 👋 Hi Khoshgela (gorgeous) i'm Mashmool 
+# 👋 Hi Khoshgela i'm Mashmool 
 
 I'm a **Django Backend Developer** who fell in love with the fundamentals of backend development. I have a deep interest in topics like **design patterns**, **databases**, and **backend architecture**. My passion drives me to continuously learn and master these concepts. I love the structure and learning about these areas is something I truly enjoy.
 
