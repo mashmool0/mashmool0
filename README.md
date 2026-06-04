@@ -1,65 +1,90 @@
-# 👋 Hi, I'm Mashmool  
+<div align="center">
 
-As a **dedicated software engineer and startup founder**, I have immersed myself in the art and science of **software engineering**, especially in building scalable and efficient back-end systems. My expertise lies in **Django** and **Django REST Framework (DRF)**, complemented by a deep interest in optimizing and architecting robust applications using **design patterns**, **agile methodologies**, and **SOLID principles**.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Amirmahdi+Mashayekhi;Backend+Engineer+%2B+Product+Thinker;I+build+things+that+scale." alt="Typing SVG" />
 
-My passion for software engineering stems from a lifelong journey that began in high school, where my curiosity evolved into mastering **backend development**, **relational databases**, and **OOP**. Over time, I diversified into **team management**, **collaboration tools**, and integrating **modern practices** like **Docker** and **Kubernetes**. I love tackling complex problems, driving projects, and ensuring my teams and applications reflect technical excellence.
-
-Aside from back-end mastery, I've broadened my scope to include **designing relational and non-relational databases**, **message queues** like RabbitMQ, **caching systems** like **Redis**, and building scalable pipelines with **Celery**. I enjoy crafting efficient, user-centric solutions while mentoring others and leading teams with agility and vision.
-
-## 💻 What I Love
-I thrive when designing and engineering software solutions. Whether collaborating with teams or optimizing workflows, I love creating innovations that enhance the way software is built, managed, and scaled. I also pursue continuous learning in areas like **algorithms**, **data structures**, and testing in Python and Django.
-
-By combining passion, hard work, and a love for problem-solving, I aim to make impactful contributions and grow as a developer and leader.
+</div>
 
 ---
 
-## 🚀 Technologies & Tools
+## About
 
-### 🛠 Programming Languages & Frameworks:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I'm a software engineer who believes tools don't matter anymore.
 
-### 🗄 Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-ff6600?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+What matters is understanding fundamentals deeply enough to make the right tradeoffs — and being fast enough with AI tooling to actually ship. I think in two modes: **engineering** (how does this scale, what breaks first, what's the tradeoff) and **product** (does this solve a real problem, would a real person use this, what's the shortest path to value). Both matter. Most engineers only have one.
 
-### 🛠 Libraries & Tools:
-![Tkinter](https://img.shields.io/badge/-Tkinter-007396?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 🌐 Version Control & Collaboration:
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Agile Methodology](https://img.shields.io/badge/-Agile%20Methodology-0078D7?style=for-the-badge&logo=scrum&logoColor=white)
-
-### 🔧 Others:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Basic Networking](https://img.shields.io/badge/-Basic%20Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
-![Testing (Python/Django)](https://img.shields.io/badge/-Testing%20(Python/Django)-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Algorithms](https://img.shields.io/badge/-Algorithms-4C9A02?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-9D5C34?style=for-the-badge)
-![Team Management](https://img.shields.io/badge/-Team%20Management-blue?style=for-the-badge&logo=openproject&logoColor=white)
+I'm 21, studying Computer Engineering at Shahid Beheshti University — where I built my foundation in things that don't expire: OS internals, database theory, data structures & algorithms, software engineering principles, requirements engineering. The frameworks change. The fundamentals don't.
 
 ---
 
-## 📊 What Drives Me
-I believe that **software engineering** is not just a career—it's a calling. The ability to transform ideas into reality through system design, problem-solving, and teamwork is what fuels my passion. Whether it's building scalable systems, optimizing workflows, or leading teams, **I love engineering impactful solutions** that fit technical requirements and user needs alike.
+## What I've Built
 
-Feel free to explore my work, contribute, or drop me a message.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**CoachUpgrade**](https://coachupgrade.ir) | SaaS marketplace for Iranian fitness coaches — zero to production in 2 days, solo | Django · HTMX · PostgreSQL · Redis · Docker |
+| [**ApplyBuddy**](https://applybuddy.com) | Multi-agent AI platform for university applications — RAG pipelines, 5 specialized agents, hundreds of active users | LangGraph · LangChain · Qdrant · Django · FastAPI |
+| [**Age of AI**](https://chat.ageofai.tools) | Production AI chatbot infrastructure — built the backend from scratch | Django · FastAPI · Redis · LangGraph · Claude API |
 
+---
+
+## Numbers
+
+- **85%** of requests served under 1 second — Redis multi-layer caching
+- **40%** latency reduction — async concurrent retrieval with `asyncio.gather()`
+- **10,000** concurrent users — load tested with k6, p95 under 1 second
+- **2 days** — CoachUpgrade, zero to production, sole engineer
+
+---
+
+## Stack
+
+**Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Frontend** *(when needed)*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=flat-square&logo=htmx&logoColor=white)
+
+---
+
+## Currently
+
+- Building and validating **CoachUpgrade** with real Iranian fitness coaches
+- Looking for a backend or AI engineering role at a company with real scaling problems
+- Reading: OS concurrency internals, Go runtime, transformer architecture
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirmahdi-mashayekhi-339401254)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amirr.mashayekhii@gmail.com)
