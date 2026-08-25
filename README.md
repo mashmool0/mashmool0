@@ -22,7 +22,7 @@ I'm 21, studying Computer Engineering at Shahid Beheshti University — where I 
 |---------|-------------|-------|
 | [**CoachUpgrade**](https://coachupgrade.ir) | SaaS marketplace for Iranian fitness coaches — zero to production in 2 days, solo | Django · HTMX · PostgreSQL · Redis · Docker |
 | [**ApplyBuddy**](https://applybuddy.com) | Multi-agent AI platform for university applications — RAG pipelines, 5 specialized agents, hundreds of active users | LangGraph · LangChain · Qdrant · Django · FastAPI |
-| [**Age of AI**](https://chat.ageofai.tools) | Production AI chatbot infrastructure — built the backend from scratch | Django · FastAPI · Redis · LangGraph · Claude API |
+| [**Age of AI**](https://ageofai.tools) | Production AI chatbot infrastructure — built the backend from scratch | Django · FastAPI · Redis · LangGraph · Claude API |
 
 ---
 
